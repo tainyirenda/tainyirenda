@@ -9,6 +9,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tainyirenda&label=Profile%20views&color=0e75b6&style=flat" alt="tainyirenda" /> </p>
 
+- 🎓 Certified: **Microsoft Power BI Analyst Associate, Microsoft Data Science Associate, Google Data Analytics Professional, IBM Data Analysis with Python**
 - 🌱 I’m currently learning: **AI and Frontend Web Development** <br/> Be sure to also check out my replit for more fun projects I've worked on https://replit.com/@TaiNyirenda
 
 - 💬 Ask me about: **Power BI, Python, SQL, Cloud Services - Azure Data Factory, Azure Data Science ML & DL**
