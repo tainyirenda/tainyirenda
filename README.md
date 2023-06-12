@@ -3,8 +3,8 @@
 <h3 align="center">A Tenacious Data Analyst - A Detective, An Artist and an Explorer in one.</h3>
 <br/>
 <br/>
-<img align="right" alt="coding" width="400" src="https://1.bp.blogspot.com/-lfmfIyR1kCU/VzJEBoBMCsI/AAAAAAAAHzQ/L-ZxTSnC0K4_XC0b1Zzav1j34ghrQDjNACKgB/s1600/brain_neurons_firing_300_clr_10714.gif">
-<img src="https://media0.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=ecf05e47ii767l7797il7nz4jnuj45fhy26geltezu1idhxp&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Marketing Analyze GIF by Giflytics" style="width: 400px; height: 400px; opacity: 0; left: 0px; top: 0px;">
+<img align="right" alt="coding" width="200" src="https://1.bp.blogspot.com/-lfmfIyR1kCU/VzJEBoBMCsI/AAAAAAAAHzQ/L-ZxTSnC0K4_XC0b1Zzav1j34ghrQDjNACKgB/s1600/brain_neurons_firing_300_clr_10714.gif">
+<img align="right" src="https://media0.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=ecf05e47ii767l7797il7nz4jnuj45fhy26geltezu1idhxp&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Marketing Analyze GIF by Giflytics" style="width: 200px; height: 200px; opacity: 0; left: 0px; top: 0px;">
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tainyirenda&label=Profile%20views&color=0e75b6&style=flat" alt="tainyirenda" /> </p>
