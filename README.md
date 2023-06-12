@@ -9,11 +9,12 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tainyirenda&label=Profile%20views&color=0e75b6&style=flat" alt="tainyirenda" /> </p>
 
-- 🌱 I’m currently learning **AI and Frontend Web Development**
+- 🌱 I’m currently learning: **AI and Frontend Web Development** <br/> Be sure to also check out my replit for more fun projects I've worked on https://replit.com/@TaiNyirenda
 
-- 💬 Ask me about **Power BI, Python, SQL, Cloud Services - Azure Data Factory, Azure Data Science ML & DL**
+- 💬 Ask me about: **Power BI, Python, SQL, Cloud Services - Azure Data Factory, Azure Data Science ML & DL**
 
-- 📫 How to reach me **taiestellenyirenda@gmail.com**
+- 📫 How to reach me: **taiestellenyirenda@gmail.com**
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
