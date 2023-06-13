@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/varijanta/varijanta1604/varijanta160400067/55847726-modern-thin-line-design-concept-for-analysis-website-banner-vector-illustration-concept-for.jpg)](https://tainyirenda.io)
 <h1 align="center">Hi 👋, I'm Tai</h1>
-<h3 align="center">A Tenacious Data Analyst - A Detective, An Artist and an Explorer in one.</h3>
+<h3 align="center">A Tenacious Data Analyst - A Detective, an Artist and an Explorer in one.</h3>
 <br/>
 <br/>
 <img align="right" alt="coding" width="200" src="https://1.bp.blogspot.com/-lfmfIyR1kCU/VzJEBoBMCsI/AAAAAAAAHzQ/L-ZxTSnC0K4_XC0b1Zzav1j34ghrQDjNACKgB/s1600/brain_neurons_firing_300_clr_10714.gif">
