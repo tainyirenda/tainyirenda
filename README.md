@@ -4,12 +4,14 @@
 <br/>
 <br/>
 <img align="right" alt="coding" width="200" src="https://1.bp.blogspot.com/-lfmfIyR1kCU/VzJEBoBMCsI/AAAAAAAAHzQ/L-ZxTSnC0K4_XC0b1Zzav1j34ghrQDjNACKgB/s1600/brain_neurons_firing_300_clr_10714.gif">
-<img align="right" src="https://media0.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=ecf05e47ii767l7797il7nz4jnuj45fhy26geltezu1idhxp&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Marketing Analyze GIF by Giflytics" style="width: 200px; height: 200px; opacity: 0; left: 0px; top: 0px;">
+<img align="right" src="https://media0.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=ecf05e47ii767l7797il7nz4jnuj45fhy26geltezu1idhxp&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Marketing Analyze GIF by Giflytics" style="width: 150px; height: 150px; opacity: 0; left: 0px; top: 0px;">
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tainyirenda&label=Profile%20views&color=0e75b6&style=flat" alt="tainyirenda" /> </p>
 
 - 🎓 Certified: **Microsoft Power BI Analyst Associate, Microsoft Data Science Associate, Google Data Analytics Professional, IBM Data Analysis with Python**
+<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Microsoft Certified: Power BI Data Analyst Associate badge image. Issued by Microsoft" width="84" height="84"> <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" alt="Microsoft Certified: Azure Data Scientist Associate badge image. Issued by Microsoft" width="84" height="84"> <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate badge image. Learning. Issued by Coursera" width="84" height="84"><img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png" alt="Data Analysis with Python badge image. Learning. Intermediate level. Issued by Coursera" width="84" height="84"> <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="AWS Partner: Accreditation (Technical) badge image. Learning. Issued by Amazon Web Services Training and Certification" width="84" height="84"> <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png" alt="AWS Partner: Accreditation (Business) badge image. Learning. Issued by Amazon Web Services Training and Certification" width="84" height="84">
+<br/>
 - 🌱 I’m currently learning: **AI and Frontend Web Development** <br/> Be sure to also check out my replit for more fun projects I've worked on https://replit.com/@TaiNyirenda
 
 - 💬 Ask me about: **Power BI, Python, SQL, Cloud Services - Azure Data Factory, Azure Data Science ML & DL**
