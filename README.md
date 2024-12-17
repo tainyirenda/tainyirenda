@@ -1,6 +1,6 @@
 [![MasterHead](https://sbit.in/wp-content/uploads/2024/02/new-page-1.jpg)](https://tainyirenda.io)
 <h1 align="center">Hi 👋, I'm Tai</h1>
-<h3 align="center">A Tenacious LLM Engineer and Data Analyst - A Detective, an Artist and an Explorer in one.</h3>
+<h3 align="center">A Tenacious AI/ML/LLM Engineer - A Detective, an Artist and an Explorer in one.</h3>
 <br/>
 <br/>
 <img align="right" alt="coding" width="200" src="https://1.bp.blogspot.com/-lfmfIyR1kCU/VzJEBoBMCsI/AAAAAAAAHzQ/L-ZxTSnC0K4_XC0b1Zzav1j34ghrQDjNACKgB/s1600/brain_neurons_firing_300_clr_10714.gif">
