@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/varijanta/varijanta1604/varijanta160400067/55847726-modern-thin-line-design-concept-for-analysis-website-banner-vector-illustration-concept-for.jpg)](https://tainyirenda.io)
+[![MasterHead]([https://previews.123rf.com/images/varijanta/varijanta1604/varijanta160400067/55847726-modern-thin-line-design-concept-for-analysis-website-banner-vector-illustration-concept-for.jpg](https://www.datamation.com/wp-content/uploads/2020/12/what-is-artificial-intelligence_5fce9b2c79737.png)](https://tainyirenda.io)
 <h1 align="center">Hi 👋, I'm Tai</h1>
 <h3 align="center">A Tenacious LLM Engineer and Data Analyst - A Detective, an Artist and an Explorer in one.</h3>
 <br/>
@@ -12,7 +12,7 @@
 - 🎓 Certified: **Microsoft Power BI Analyst Associate, Microsoft Data Science Associate, Google Data Analytics Professional** <br/>
 <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Microsoft Certified: Power BI Data Analyst Associate badge image. Issued by Microsoft" width="84" height="84"> <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" alt="Microsoft Certified: Azure Data Scientist Associate badge image. Issued by Microsoft" width="84" height="84"> <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate badge image. Learning. Issued by Coursera" width="84" height="84">
 
-- 🌱 I’m currently learning: **MSc Artificial Intelligence** <br/> Be sure to also check out my replit for more fun projects I've worked on https://replit.com/@TaiNyirenda
+- 🌱 I’m currently learning: **Artificial Intelligence** <br/> Be sure to also check out my replit for more fun projects I've worked on https://replit.com/@TaiNyirenda
 
 - 💬 Ask me about: **All things AI, Power BI, Python, SQL, Cloud Services - Azure Data Factory, Azure Data Science ML & DL**
 
