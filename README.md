@@ -1,4 +1,4 @@
-[![MasterHead]([[https://previews.123rf.com/images/varijanta/varijanta1604/varijanta160400067/55847726-modern-thin-line-design-concept-for-analysis-website-banner-vector-illustration-concept-for.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_x_BGmCWrQrzeoa4macrsKiD3eusSldEgw&s)](https://www.datamation.com/wp-content/uploads/2020/12/what-is-artificial-intelligence_5fce9b2c79737.png)](https://tainyirenda.io)
+[![MasterHead]([[https://previews.123rf.com/images/varijanta/varijanta1604/varijanta160400067/55847726-modern-thin-line-design-concept-for-analysis-website-banner-vector-illustration-concept-for.jpg)][(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_x_BGmCWrQrzeoa4macrsKiD3eusSldEgw&s)](https://www.datamation.com/wp-content/uploads/2020/12/what-is-artificial-intelligence_5fce9b2c79737.png)](https://tainyirenda.io)
 <h1 align="center">Hi 👋, I'm Tai</h1>
 <h3 align="center">A Tenacious LLM Engineer and Data Analyst - A Detective, an Artist and an Explorer in one.</h3>
 <br/>
