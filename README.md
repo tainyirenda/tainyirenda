@@ -1,8 +1,9 @@
 [![MasterHead](https://sbit.in/wp-content/uploads/2024/02/new-page-1.jpg)](https://tainyirenda.io)
 <h1 align="center">Hi 👋, I'm Tai</h1>
 <h3 align="center">A Tenacious AI/ML/LLM Engineer - A Detective, an Artist and an Explorer in one.</h3>
-<br/>
-<br/>
+<h3 align="center"> Founder & CEO @ Afro Ubuntu TradeNet Ltd.</br> https://www.afroubuntutrade.co.uk <h>
+</br>
+</br>
 <img align="right" alt="coding" width="200" src="https://1.bp.blogspot.com/-lfmfIyR1kCU/VzJEBoBMCsI/AAAAAAAAHzQ/L-ZxTSnC0K4_XC0b1Zzav1j34ghrQDjNACKgB/s1600/brain_neurons_firing_300_clr_10714.gif">
 <img align="right" src="https://media0.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif?cid=ecf05e47ii767l7797il7nz4jnuj45fhy26geltezu1idhxp&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Marketing Analyze GIF by Giflytics" style="width: 150px; height: 150px; opacity: 0; left: 0px; top: 0px;">
 
