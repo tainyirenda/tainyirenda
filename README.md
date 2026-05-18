@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning: **Artificial Intelligence** <br/> Be sure to also check out my replit for more fun projects I've worked on https://replit.com/@TaiNyirenda
 
-- 💬 Ask me about: **All things AI, Power BI, Python, SQL, Cloud Services - Azure Data Factory, Azure Data Science ML & DL**
+- 💬 Ask me about: **All things AI, Power BI, Python, SQL, Cloud Services - Azure Data Factory, Azure AI/Data Science ML & DL**
 
 - 📫 How to reach me: **taiestellenyirenda@gmail.com**
 
